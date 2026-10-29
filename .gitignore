@@ -1,0 +1,5 @@
+# Only the encrypted page, the build script and these notes are meant for GitHub.
+/*
+!/.gitignore
+!/build.js
+!/docs
